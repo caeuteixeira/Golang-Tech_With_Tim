@@ -1,3 +1,2 @@
 # Golang-Tech_With_Tim
- My first steps on Golang.
- This is the youtube playlist I'm using to study.
+ My first steps on Golang based on this youtube playlist by Tech with Tim.
